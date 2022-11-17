@@ -1,0 +1,382 @@
+body {
+  margin: 0%;
+}
+
+.brand-name {
+  font-size: 34px;
+  font-family: "Lekton", sans-serif;
+  margin: 10px 10px 10px 150px;
+}
+
+.brand-story {
+  font-size: 80px;
+  font-family: "Poppins", sans-serif;
+  margin: 0px;
+  font-weight: 700;
+  line-height: 108px;
+  letter-spacing: 0em;
+  text-align: center;
+}
+
+p {
+  font-family: "Inter", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 28px;
+  letter-spacing: 0.01em;
+  text-align: left;
+}
+.BG {
+  position: absolute;
+  width: 1263px;
+}
+
+button {
+  font-family: "Inter", sans-serif;
+  color: #fffaf9;
+  background-color: rgba(255, 255, 255, 0.2);
+  font-size: 15px;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  border-radius: 20px;
+  padding: 7.5px 15px;
+  cursor: pointer;
+}
+button:hover {
+  color: #2d63c8;
+  background-color: #ffffff7d;
+}
+
+.demo-btn {
+  margin-top: 25px;
+  background-color: #231a36;
+  font-size: 15px;
+  border: 1px solid #231a36;
+  border-radius: 20px;
+  padding: 12px 30px;
+  cursor: pointer;
+}
+
+.subscribe-btn {
+  margin-top: 25px;
+  margin-left: 190px;
+  background-color: #231a36;
+  font-size: 15px;
+  border: 1px solid #231a36;
+  border-radius: 20px;
+  padding: 12px 50px;
+  cursor: pointer;
+}
+
+.navbar {
+  color: #ffffff;
+  display: flex;
+  justify-content: space-between;
+  position: fixed;
+  top: 0;
+  width: 1260px;
+}
+
+.nav-menu {
+  font-family: "Inter", sans-serif;
+  display: flex;
+  list-style: none;
+  margin: 10px 0px 0px 0px;
+}
+
+.nav-btn {
+  margin: 20px;
+}
+
+.nav-a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.p-style {
+  font-family: "Inter", sans-serif;
+  color: #b3b7bc;
+  font-weight: 600;
+  text-align: center;
+}
+
+.left-side {
+  display: flex;
+  position: relative;
+}
+
+.left-text {
+  margin: 320px 0px 0px 130px;
+}
+
+.left-img {
+  margin-top: 120px;
+}
+
+.influencer {
+  display: flex;
+}
+
+.community-marketing {
+  display: flex;
+}
+
+.managed-services {
+  display: flex;
+}
+
+h2 {
+  font-family: "Poppins", sans-serif;
+  font-size: 40px;
+  font-weight: 600;
+  line-height: 60px;
+  letter-spacing: 0em;
+  text-align: center;
+}
+h5 {
+  font-family: "Inter", sans-serif;
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 18px;
+  letter-spacing: 0.2em;
+  text-align: left;
+}
+
+h3 {
+  font-family: "Poppins", sans-serif;
+  font-size: 30px;
+  font-weight: 600;
+  line-height: 40px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+.p-center{
+    text-align: center;
+}
+
+.sec-one {
+  width: 380px;
+  height: 300px;
+}
+
+#section-one {
+  margin-left: 350px;
+}
+
+.influencer {
+  margin-top: 100px;
+}
+
+#section-two {
+  height: 590px;
+  background-color: #231a36;
+}
+
+#section-two h2 {
+  color: #ffffff;
+  margin: 0%;
+}
+
+#section-two,
+p {
+  color: #7b9292;
+  margin: 0%;
+}
+
+.ul-text {
+  width: 735px;
+  text-align: center;
+  padding: 100px 0px 0px 300px;
+}
+
+.ul-two {
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+  padding: 0px 250px 0px 250px;
+  margin-top: 100px;
+}
+
+#section-three h2 {
+  text-align: center;
+  margin: 0%;
+}
+
+.sec-3 {
+  width: 540px;
+  margin: 150px 0px 0px 380px;
+}
+
+.group-of-five {
+  position: absolute;
+  width: 1050px;
+  margin-left: 130px;
+  margin-top: 100px;
+}
+
+.followers {
+  display: flex;
+}
+
+h4 {
+  font-family: "Poppins", sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: center;
+}
+
+.followers p {
+  font-family: "Inter", sans-serif;
+  font-size: 10px;
+  font-weight: 500;
+  line-height: 10px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+.card {
+  padding-left: 30px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  height: 175px;
+  width: 272px;
+  left: 184px;
+  top: 507px;
+}
+
+.card-flex {
+  width: 1200px;
+  display: flex;
+  justify-content: space-evenly;
+  position: absolute;
+  margin-top: 270px;
+  margin-left: 10px;
+}
+
+.m-63 {
+  width: 63px;
+  margin-right: 50px;
+}
+
+.h4 {
+  margin-bottom: 5px;
+  margin-top: 25px;
+}
+
+.p {
+  text-align: left;
+  color: #b33cdb;
+  font-family: "Inter", sans-serif;
+  font-size: 15px;
+  font-weight: 500;
+  line-height: 18px;
+  letter-spacing: 0em;
+  margin-top: 10px;
+}
+.h5 {
+  margin-bottom: 0px;
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+.happy-client {
+  width: 600px;
+  margin-top: 600px;
+  margin-left: 330px;
+}
+
+.happy-flex {
+  display: flex;
+  text-align: left;
+  width: 870px;
+  padding-top: 100px;
+  margin-left: 200px;
+}
+
+.happy-p {
+  font-family: "Inter", sans-serif;
+  font-size: 22px;
+  font-style: italic;
+  font-weight: 500;
+  line-height: 36px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+.happy-h4 {
+  text-align: left;
+  margin-top: 50px;
+  margin-bottom: 5px;
+}
+
+.bg-two {
+  height: 341.6552734375px;
+  width: 976px;
+  left: 232.00479125976562px;
+  top: 29px;
+  border-radius: 20px;
+  margin-top: 100px;
+  margin-left: 150px;
+  background: radial-gradient(
+    96.32% 571.83% at 98.4% 19.88%,
+    #8fb3ff 0%,
+    #9d6be8 27.72%,
+    #de2778 54.29%,
+    #b03de2 100%
+  );
+}
+
+.bg-two-text{
+    color: #ffffff;
+    width: 550px;
+    margin-left: 200px;
+    padding: 30px;
+}
+
+.nav-two{
+    margin-top: 80px;
+    -webkit-text-fill-color: #231a36;
+    display: flex;
+}
+
+.nav-list-two{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+padding-top: 25px;
+margin: 0px 200px 0px 180px;
+width: 300px;
+}
+
+.brand-two{
+    font-family: 'Lekton', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 34px;
+line-height: 35px;
+margin-left: 150px;
+}
+
+.icon{
+    margin: 20px;
+}
+
+footer{
+    font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 08px;
+line-height: 13px;
+margin: 20px;
+}
